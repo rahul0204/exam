@@ -1,0 +1,4 @@
+Q display content of output.txt(use io redirection)
+
+#!/bin/sh
+cat < output.txt
